@@ -1,1 +1,1 @@
-# webpack-tailwind-starter
+# tw-webpack-starter
